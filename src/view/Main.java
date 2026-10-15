@@ -5,7 +5,7 @@ import java.util.Scanner;
 import model.*;
 import repository.*;
 import controller.*;
-
+// MAP Lab 1 - Parking Lot
 public class Main {
     public static void main(String[] args) {
 
